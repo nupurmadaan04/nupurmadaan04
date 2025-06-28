@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nupur Madaan</h1>
-<h3 align="center">🚀 Data Science & ML Enthusiast | Problem Solver | Final Year Student</h3>
+<h3 align="center">🚀 Data Science & ML Enthusiast | Problem Solver | 3rd Year Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nupurmadaan04&label=Profile%20views&color=0e75b6&style=flat" alt="nupurmadaan04" />
@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 I'm a final year B.Tech student with a passion for **Data Science**, **Machine Learning**, and **real-world problem solving**.
+- 🎓 I'm a 3rd year B.Tech student with a passion for **Data Science**, **Machine Learning**, and **real-world problem solving**.
 - 🌾 Currently working on **AI in Agriculture: Crop Yield Prediction** as part of an internship project.
 - 🧠 I love turning raw data into meaningful insights.
 
