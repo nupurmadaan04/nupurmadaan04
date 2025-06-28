@@ -63,8 +63,8 @@ A psychological test-based Java Swing app to assess EQ. Includes user login, res
 
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn, scikit-learn
-- Java (Swing), JDBC, MySQL
-- Jupyter Notebook, Git, GitHub
+- Java (Beginner) , MySQL
+- Jupyter Notebook , Anaconda Navigator , GitHub
 
 ---
 
