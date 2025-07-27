@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 I'm a 3rd year B.Tech student with a passion for **Data Science**, **Machine Learning**, and **real-world problem solving**.
-- 🌾 Currently working on **AI in Agriculture: Crop Yield Prediction** as part of an internship project.
+- 🌾 Currently completed **AI in Agriculture: Crop Yield Prediction** as part of an internship project and now introduced this project in Gssoc 2025.
 - 🧠 I love turning raw data into meaningful insights.
 
 ---
