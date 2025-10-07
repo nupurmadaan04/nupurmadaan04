@@ -1,77 +1,97 @@
-<h1 align="center">Hi 👋, I'm Nupur Madaan</h1>
-<h3 align="center">🚀 Data Science & ML Enthusiast | Problem Solver | 3rd Year Student</h3>
+<h1 align="center">🚀 Hey, I'm <a href="https://www.linkedin.com/in/nupurmadaan04" target="_blank">Nupur Madaan</a>!</h1>
+<h3 align="center">Data Science & ML Enthusiast | Problem Solver | 3rd Year B.Tech</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nupurmadaan04&label=Profile%20views&color=0e75b6&style=flat" alt="nupurmadaan04" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nupurmadaan04"><img src="https://img.shields.io/badge/GitHub-nupurmadaan04-181717?style=for-the-badge&logo=github"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nupurmadaan04/"><img src="https://img.shields.io/badge/LinkedIn-Nupur%20Madaan-0077B5?style=for-the-badge&logo=linkedin"/></a>&nbsp;&nbsp;
+  <a href="mailto:nupur.04.mn@gmail.com"><img src="https://img.shields.io/badge/Email-nupur.04.mn%40gmail.com-D14836?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;
+  <a href="https://nupurmadaan04.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View-9b59b6?style=for-the-badge&logo=about.me"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nupurmadaan04&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/badge/GSSoC'25-Contributor-ff69b4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-00b894?style=flat-square"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-- 🎓 I'm a 3rd year B.Tech student with a passion for **Data Science**, **Machine Learning**, and **real-world problem solving**.
-- 🌾 Currently completed **AI in Agriculture: Crop Yield Prediction** as part of an internship project and now introduced this project in Gssoc 2025.
-- 🧠 I love turning raw data into meaningful insights.
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: [nupurmadaan04@gmail.com](mailto:nupurmadaan04@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nupurmadaan04](https://www.linkedin.com/in/nupurmadaan04)
-- 💻 GitHub: [github.com/nupurmadaan04](https://github.com/nupurmadaan04)
+## 🌟 About Me
+- 🎓 3rd Year B.Tech Student passionate about **Data Science & ML**  
+- 🌾 Worked on **AI in Agriculture: Crop Yield Prediction** & GSSoC 2025 contributions  
+- 🧠 Transforming raw data into actionable insights  
 
 ---
 
-## 🧠 Projects
-
-### 🌾 AI in Agriculture: Crop Monitoring and Yield Prediction  
-[🔗 View Project](https://github.com/nupurmadaan04/AI-agriculture-yield-prediction)  
-Built a Random Forest-based prediction model using crop data for rice yield forecasting. Includes preprocessing, EDA, model training, evaluation & deployment notebooks.
-
-### 🎫 Ticket Generator Desktop App (Java Swing)  
-[🔗 View Project](https://github.com/nupurmadaan04/Airport-Ticket-Booking-System)  
-Java-based GUI application to book, cancel, and generate printable tickets for an airport system. Includes login system, JDBC connection, and database integration.
-
-### 💡 Soul Sense - Emotional Intelligence Quiz  
-[🔗 View Project](https://github.com/nupurmadaan04/Soul-Sense-EQ-Test)  
-A psychological test-based Java Swing app to assess EQ. Includes user login, result evaluation, and score interpretation logic.
-
----
-
-## 📊 GitHub Stats & Contributions
+## 🧩 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nupurmadaan04&show_icons=true&theme=react&count_private=true" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nupurmadaan04&theme=react" alt="GitHub streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurmadaan04&layout=compact&theme=react" alt="Top languages" />
+  <table>
+    <tr>
+      <td align="center" style="border-radius: 15px; padding: 15px; background: linear-gradient(135deg, #f6d365 0%, #fda085 100%); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+        <b>🌾 AI in Agriculture</b><br>
+        <img src="https://github.com/nupurmadaan04/AI-agriculture-yield-production/blob/main/demo.gif" width="200"/><br>
+        [🔗 View](https://github.com/nupurmadaan04/AI-agriculture-yield-production)<br>
+        <i>Random Forest model for rice yield forecasting with EDA, preprocessing & deployment</i>
+      </td>
+      <td align="center" style="border-radius: 15px; padding: 15px; background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+        <b>🎫 Ticket Generator</b><br>
+        <img src="https://github.com/nupurmadaan04/TICKET_GENERATOR/blob/main/demo.gif" width="200"/><br>
+        [🔗 View](https://github.com/nupurmadaan04/TICKET_GENERATOR)<br>
+        <i>Python Tkinter app for airline ticket booking & printable tickets</i>
+      </td>
+      <td align="center" style="border-radius: 15px; padding: 15px; background: linear-gradient(135deg, #fdcbf1 0%, #e6dee9 100%); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+        <b>💡 Soul Sense EQ Quiz</b><br>
+        <img src="https://github.com/nupurmadaan04/SOUL_SENSE_EXAM/blob/main/demo.gif" width="200"/><br>
+        [🔗 View](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM)<br>
+        <i>Java Swing + SQL EQ testing app with login & score evaluation</i>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
+## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nupurmadaan04&theme=monokai&column=4" alt="Trophies" />
+  <!-- Skillicons for main tech -->
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,plotly,ipywidgets,git,github,vscode,anaconda&theme=dark"/>
+<br><br>
+<img src="https://raw.githubusercontent.com/nupurmadaan04/assets/main/java.png" width="40"/>
+<img src="https://raw.githubusercontent.com/nupurmadaan04/assets/main/cpp.png" width="40"/>
+
+  <!-- Java & C++ via shields.io -->
+ <img src="https://raw.githubusercontent.com/nupurmadaan04/assets/main/java.png" width="40"/>
+<img src="https://raw.githubusercontent.com/nupurmadaan04/assets/main/cpp.png" width="40"/>
+
 </p>
+
+
 
 ---
 
-## 🚀 Tools & Technologies
-
-- Python, Pandas, NumPy
-- Matplotlib, Seaborn, scikit-learn
-- Java (Beginner) , MySQL
-- Jupyter Notebook , Anaconda Navigator , GitHub
+## 📊 GitHub Stats & Achievements
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nupurmadaan04&show_icons=true&theme=radical&count_private=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nupurmadaan04&theme=radical" width="45%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurmadaan04&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nupurmadaan04&theme=algolia&no-frame=true&column=4" width="45%"/>
+</p>
 
 ---
 
 ## 📝 Quote
-
-> "Push yourself, because no one else is going to do it for you."
+<p align="center">
+  <em>“The best way to predict the future is to train it.” 🤖</em>
+</p>
 
 ---
 
-**⭐ Don’t forget to star the projects you like!**  
+<h3 align="center">⭐ If you liked my projects, don’t forget to star them!</h3>
+<p align="center">🧡 Made with ❤️ by <a href="https://github.com/nupurmadaan04">Nupur Madaan</a></p>
