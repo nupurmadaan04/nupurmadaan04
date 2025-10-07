@@ -58,17 +58,16 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <!-- Skillicons for main tech -->
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,plotly,ipywidgets,git,github,vscode,anaconda&theme=dark"/>
-<br><br>
-<img src="https://raw.githubusercontent.com/nupurmadaan04/assets/main/java.png" width="40"/>
-<img src="https://raw.githubusercontent.com/nupurmadaan04/assets/main/cpp.png" width="40"/>
-
-  <!-- Java & C++ via shields.io -->
- <img src="https://raw.githubusercontent.com/nupurmadaan04/assets/main/java.png" width="40"/>
-<img src="https://raw.githubusercontent.com/nupurmadaan04/assets/main/cpp.png" width="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="30"/>&nbsp;
+ 
 </p>
+
 
 
 
@@ -95,3 +94,4 @@
 
 <h3 align="center">⭐ If you liked my projects, don’t forget to star them!</h3>
 <p align="center">🧡 Made with ❤️ by <a href="https://github.com/nupurmadaan04">Nupur Madaan</a></p>
+
