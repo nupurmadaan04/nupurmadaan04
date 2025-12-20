@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nupurmadaan04&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/badge/GSSoC'25-Contributor-ff69b4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GSSoC'25-Project Admin-ff69b4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open%20Source-Lover-00b894?style=flat-square"/>
 </p>
 
@@ -94,4 +94,5 @@
 
 <h3 align="center">⭐ If you liked my projects, don’t forget to star them!</h3>
 <p align="center">🧡 Made with ❤️ by <a href="https://github.com/nupurmadaan04">Nupur Madaan</a></p>
+
 
