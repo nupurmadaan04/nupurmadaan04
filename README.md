@@ -48,7 +48,7 @@
         <b>💡 Soul Sense EQ Quiz</b><br>
         <img src="https://github.com/nupurmadaan04/SOUL_SENSE_EXAM/blob/main/demo.gif" width="200"/><br>
         [🔗 View](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM)<br>
-        <i>Java Swing + SQL EQ testing app with login & score evaluation</i>
+        <i>Python Tkinter + SQL EQ testing app with login & score evaluation</i>
       </td>
     </tr>
   </table>
@@ -94,5 +94,6 @@
 
 <h3 align="center">⭐ If you liked my projects, don’t forget to star them!</h3>
 <p align="center">🧡 Made with ❤️ by <a href="https://github.com/nupurmadaan04">Nupur Madaan</a></p>
+
 
 
