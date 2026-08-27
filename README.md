@@ -94,7 +94,6 @@
     <img src="https://img.shields.io/badge/Status-Completed-success"/>
   </p>
 </td>
-```
 
   </tr>
 
