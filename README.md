@@ -53,10 +53,14 @@
   </ul>
 
   <p>
-    <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python"/>
-    <img src="https://img.shields.io/badge/Tkinter-GUI-yellow?logo=python"/>
-    <img src="https://img.shields.io/badge/SQL-Database-00758f?logo=mysql"/>
-    <img src="https://img.shields.io/badge/Status-Active-success"/>
+  <p>
+  <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Next.js-Frontend-000000?logo=next.js"/>
+  <img src="https://img.shields.io/badge/SQL-Database-00758F?logo=mysql"/>
+  <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/Status-Active-success"/>
+</p>
   </p>
 </td>
 
@@ -180,35 +184,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" alt="Anaconda"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="40" alt="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tableau.svg" width="40" alt="Tableau"/>
 </div>
 
 ---
 
-## 📈 GitHub Stats & Contributions
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nupurmadaan04&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nupurmadaan04&theme=radical&hide_border=true"/>
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
 
+  <!-- GitHub Stats -->
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=nupurmadaan04&show_icons=true&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=nupurmadaan04&show_icons=true&hide_border=true"
     alt="GitHub Stats"
   />
 
+  <!-- Top Languages -->
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurmadaan04&layout=compact&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nupurmadaan04&layout=compact&hide_border=true"
     alt="Top Languages"
   />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/nupurmadaan04/nupurmadaan04/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+
+</div>
 
 ## 📚 Currently Exploring
 
@@ -220,7 +231,6 @@
 | 🚀 **LLM** | LLM Engineering & Optimization |
 | 🔄 **RAG** | Retrieval-Augmented Generation Systems |
 | 🤖 **AI Agents** | Autonomous AI Agent Development |
-| 🌐 **Open Source** | Open Source Development & Collaboration |
 
 ---
 
