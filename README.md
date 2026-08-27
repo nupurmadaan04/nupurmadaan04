@@ -30,76 +30,135 @@
 <div align="center">
 <table>
   <tr>
-    <td width="48%" valign="top">
-      <h3>🌾 AI in Agriculture: Crop Yield Prediction</h3>
-      <a href="https://github.com/nupurmadaan04/AI-agriculture-yield-production">
-        <img src="https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github"/>
-      </a>
-      <p><strong>Random Forest</strong> based crop yield prediction with real-world agricultural data</p>
-      <ul>
-        <li>✓ Data preprocessing & feature engineering</li>
-        <li>✓ Exploratory Data Analysis (EDA)</li>
-        <li>✓ Model evaluation & deployment</li>
-        <li>✓ Production-ready workflow</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python"/>
-        <img src="https://img.shields.io/badge/ML-Scikit_Learn-orange?logo=scikit-learn"/>
-        <img src="https://img.shields.io/badge/Status-Deployment ready-green"/>
-      </p>
-    </td>
-    <td width="48%" valign="top">
-      <h3>🎫 Airline Ticket Generator</h3>
-      <a href="https://github.com/nupurmadaan04/TICKET_GENERATOR">
-        <img src="https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github"/>
-      </a>
-      <p>Python <strong>Tkinter GUI</strong> application for airline ticket booking</p>
-      <ul>
-        <li>✓ Ticket booking interface</li>
-        <li>✓ Printable airline tickets</li>
-        <li>✓ CSV-based data handling</li>
-        <li>✓ User-friendly design</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python"/>
-        <img src="https://img.shields.io/badge/GUI-Tkinter-yellow?logo=python"/>
-        <img src="https://img.shields.io/badge/Data-CSV-brown?logo=csv"/>
-      </p>
-    </td>
+
+<!-- SOUL SENSE -->
+<td width="48%" valign="top">
+  <h3>🧠 Soul Sense EQ Quiz</h3>
+
+  <a href="https://github.com/nupurmadaan04/SOUL_SENSE_EXAM">
+    <img src="https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <p>
+    <strong>AI-assisted Emotional Intelligence assessment system</strong>
+    designed to evaluate EQ through structured psychological-style questionnaires.
+  </p>
+
+  <ul>
+    <li>✓ User authentication & profile management</li>
+    <li>✓ SQL-backed assessment system</li>
+    <li>✓ Automated EQ score evaluation</li>
+    <li>✓ Interactive quiz interface</li>
+    <li>✓ Backend-driven assessment workflow</li>
+  </ul>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python"/>
+    <img src="https://img.shields.io/badge/Tkinter-GUI-yellow?logo=python"/>
+    <img src="https://img.shields.io/badge/SQL-Database-00758f?logo=mysql"/>
+    <img src="https://img.shields.io/badge/Status-Active-success"/>
+  </p>
+</td>
+
+<!-- UNIFIED MILITARY -->
+<td width="48%" valign="top">
+  <h3>🪖 Unified Military Analytics Dashboard</h3>
+
+  <a href="https://github.com/nupurmadaan04">
+    <img src="https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <p>
+    <strong>End-to-end defense analytics platform</strong> for collecting,
+    cleaning, analyzing, and visualizing military and economic indicators
+    across countries.
+  </p>
+
+  <ul>
+    <li>✓ Automated web-scraping pipeline</li>
+    <li>✓ Data cleaning & feature engineering</li>
+    <li>✓ Defense and economic KPI generation</li>
+    <li>✓ Country comparison & strategic analytics</li>
+    <li>✓ Interactive dashboard visualizations</li>
+  </ul>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python"/>
+    <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas"/>
+    <img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4B8BBE"/>
+    <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau"/>
+    <img src="https://img.shields.io/badge/Status-Completed-success"/>
+  </p>
+</td>
+```
+
   </tr>
+
   <tr>
-    <td width="48%" valign="top">
-      <h3>💡 Soul Sense EQ Quiz</h3>
-      <a href="https://github.com/nupurmadaan04/SOUL_SENSE_EXAM">
-        <img src="https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github"/>
-      </a>
-      <p><strong>SQL Database</strong> integrated EQ score evaluation system</p>
-      <ul>
-        <li>✓ User authentication system</li>
-        <li>✓ SQL Database integration</li>
-        <li>✓ EQ score evaluation</li>
-        <li>✓ Python + Tkinter</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python"/>
-        <img src="https://img.shields.io/badge/Database-SQL-00758f?logo=mysql"/>
-        <img src="https://img.shields.io/badge/Auth-Implemented-green"/>
-      </p>
-    </td>
-    <td width="48%" valign="top">
-      <h3>🔮 Coming Soon</h3>
-      <p>Exciting new projects in <strong>LLM Engineering</strong> and <strong>RAG Systems</strong></p>
-      <ul>
-        <li>→ Retrieval-Augmented Generation</li>
-        <li>→ AI Agents</li>
-        <li>→ Advanced ML Architectures</li>
-        <li>→ Open Source Development</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Under%20Development-orange"/>
-        <img src="https://img.shields.io/badge/Sector-LLM&AI-blue"/>
-      </p>
-    </td>
+
+
+<!-- COGENTIC -->
+<td width="48%" valign="top">
+  <h3>🤖 Cogentic AI</h3>
+
+  <a href="https://github.com/Jalte-Diye-Foundation/Cogentic">
+    <img src="https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <p>
+    <strong>Agentic AI content automation pipeline</strong> developed for
+    social education and awareness content generation.
+  </p>
+
+  <ul>
+    <li>✓ AI-powered content generation using Gemini</li>
+    <li>✓ Automated AI quality evaluation</li>
+    <li>✓ Dynamic poster generation with PIL</li>
+    <li>✓ Automated website asset updates</li>
+    <li>✓ GitHub Actions-based content pipeline</li>
+    <li>✓ LinkedIn publishing integration</li>
+  </ul>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python"/>
+    <img src="https://img.shields.io/badge/Gemini-Generative%20AI-4285F4?logo=google"/>
+    <img src="https://img.shields.io/badge/PIL-Image%20Processing-3776AB"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?logo=githubactions"/>
+    <img src="https://img.shields.io/badge/Status-Active-success"/>
+  </p>
+</td>
+
+<!-- DENTAL -->
+<td width="48%" valign="top">
+  <h3>🦷 Dental Caries Detection</h3>
+
+  <a href="https://github.com/nupurmadaan04">
+    <img src="https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <p>
+    <strong>Deep learning-based dental caries segmentation system</strong>
+    for identifying carious regions in panoramic dental X-ray images.
+  </p>
+
+  <ul>
+    <li>✓ DC1000 panoramic dental X-ray dataset</li>
+    <li>✓ Image preprocessing & CLAHE enhancement</li>
+    <li>✓ U-Net / U-Net++ segmentation experiments</li>
+    <li>✓ Binary Focal Loss for extreme class imbalance</li>
+    <li>✓ Data augmentation & threshold analysis</li>
+    <li>✓ Pixel-level caries segmentation</li>
+  </ul>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python"/>
+    <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch"/>
+    <img src="https://img.shields.io/badge/U--Net%2B%2B-Segmentation-6A5ACD"/>
+    <img src="https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?logo=opencv"/>
+    <img src="https://img.shields.io/badge/Status-In%20Progress-orange"/>
+  </p>
+</td>
+
   </tr>
 </table>
 </div>
@@ -109,7 +168,7 @@
 ## ⚡ Tech Stack
 
 ### 📚 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### 🤖 Data Science & AI
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Data_Analysis-Graph-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Machine_Learning-Algorithmic-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-Text_Processing-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLM-Generative_AI-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-Search_&_Retrieval-yellow?style=for-the-badge&logoColor=black"/>
@@ -120,7 +179,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" alt="Anaconda"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="40" alt="Tableau"/>
 </div>
 
 ---
@@ -133,13 +193,19 @@
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurmadaan04&layout=compact&theme=radical&hide_border=true"/>
-</div>
 
-<br/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=nupurmadaan04&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nupurmadaan04&theme=radical&area=true" width="100%" alt="Activity Graph" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurmadaan04&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
+
 </div>
 
 ---
