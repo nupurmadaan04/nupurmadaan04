@@ -9,6 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -16,10 +19,11 @@ jobs:
           github_user_name: nupurmadaan04
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy Snake
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
